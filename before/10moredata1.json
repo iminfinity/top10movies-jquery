@@ -1,0 +1,122 @@
+{
+    "1": {
+        "name": " Inception ",
+        "rating": "PG-13 ",
+        "length": " 148 min ",
+        "genre": " Action, Adventure, Sci-Fi",
+        "imdbrating": "8.8",
+        "metascore": "74",
+        "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "director": " Christopher Nolan ",
+        "casts": " Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Ken Watanabe",
+        "gross": "$292.58M"
+    },
+    "2": {
+        "name": " Toy Story 3 ",
+        "rating": "G ",
+        "length": " 103 min ",
+        "genre": " Animation, Adventure, Comedy",
+        "imdbrating": "8.3",
+        "metascore": "92",
+        "synopsis": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+        "director": " Lee Unkrich ",
+        "casts": " Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty",
+        "gross": "$415.00M"
+    },
+    "3": {
+        "name": " The Social Network ",
+        "rating": "PG-13 ",
+        "length": " 120 min ",
+        "genre": " Biography, Drama",
+        "imdbrating": "7.7",
+        "metascore": "95",
+        "synopsis": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.",
+        "director": " David Fincher ",
+        "casts": " Jesse Eisenberg, Andrew Garfield, Justin Timberlake, Rooney Mara",
+        "gross": "$96.96M"
+    },
+    "4": {
+        "name": " Black Swan ",
+        "rating": "R ",
+        "length": " 108 min ",
+        "genre": " Drama, Thriller",
+        "imdbrating": "8",
+        "metascore": "79",
+        "synopsis": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's \"Swan Lake\".",
+        "director": " Darren Aronofsky ",
+        "casts": " Natalie Portman, Mila Kunis, Vincent Cassel, Winona Ryder",
+        "gross": "$106.95M"
+    },
+    "5": {
+        "name": " True Grit ",
+        "rating": "PG-13 ",
+        "length": " 110 min ",
+        "genre": " Drama, Western",
+        "imdbrating": "7.6",
+        "metascore": "80",
+        "synopsis": "A stubborn teenager enlists the help of a tough U.S. Marshal to track down her father's murderer.",
+        "director": " Ethan Coen, Joel Coen ",
+        "casts": " Jeff Bridges, Matt Damon, Hailee Steinfeld, Josh Brolin",
+        "gross": "$171.24M"
+    },
+    "6": {
+        "name": " The King's Speech ",
+        "rating": "R ",
+        "length": " 118 min ",
+        "genre": " Biography, Drama, History",
+        "imdbrating": "8",
+        "metascore": "88",
+        "synopsis": "The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.",
+        "director": " Tom Hooper ",
+        "casts": " Colin Firth, Geoffrey Rush, Helena Bonham Carter, Derek Jacobi",
+        "gross": "$138.80M"
+    },
+    "7": {
+        "name": " Kick-Ass ",
+        "rating": "R ",
+        "length": " 117 min ",
+        "genre": " Action, Comedy, Crime",
+        "imdbrating": "7.6",
+        "metascore": "66",
+        "synopsis": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a superhero, even though he has no powers, training or meaningful reason to do so.",
+        "director": " Matthew Vaughn ",
+        "casts": " Aaron Taylor-Johnson, Nicolas Cage, Chlo\u00eb Grace Moretz, Garrett M. Brown",
+        "gross": "$48.07M"
+    },
+    "8": {
+        "name": " Shutter Island ",
+        "rating": "R ",
+        "length": " 138 min ",
+        "genre": " Mystery, Thriller",
+        "imdbrating": "8.1",
+        "metascore": "63",
+        "synopsis": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+        "director": " Martin Scorsese ",
+        "casts": " Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo, Ben Kingsley",
+        "gross": "$128.01M"
+    },
+    "9": {
+        "name": " The Fighter ",
+        "rating": "R ",
+        "length": " 116 min ",
+        "genre": " Biography, Drama, Sport",
+        "imdbrating": " 7.8",
+        "metascore": "",
+        "synopsis": "Based on the story of Micky Ward, a fledgling boxer who tries to escape the shadow of his more famous but troubled older boxing brother and get his own shot at greatness.",
+        "director": " David O. Russell ",
+        "casts": " Mark Wahlberg, Christian Bale, Amy Adams, Melissa Leo",
+        "gross": "$93.62M"
+    },
+    "10": {
+        "name": " 127 Hours ",
+        "rating": "R ",
+        "length": " 94 min ",
+        "genre": " Biography, Drama",
+        "imdbrating": "7.6",
+        "metascore": "82",
+        "synopsis": "A mountain climber becomes trapped under a boulder while canyoneering alone near Moab, Utah and resorts to desperate measures in order to survive.",
+        "director": " Danny Boyle ",
+        "casts": " James Franco, Amber Tamblyn, Kate Mara, Sean Bott",
+        "gross": "$18.34M"
+    }
+}

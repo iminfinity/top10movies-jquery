@@ -1,0 +1,92 @@
+body{
+	font-family:  Zapf-Chancery, cursive;/*"Star Wars", Fantasy;*/
+
+}
+h1{
+	text-align: center;
+}
+
+#data-table{
+	width: 100%;
+	table-layout: fixed;
+}
+
+#data-table td{
+	background-color: rgb(250,250,250);
+	padding: 10px;
+	border: 1px solid white;
+	font-size: 1em;
+	text-align: center;
+	height: 20px;
+}
+
+#data-table th{
+	padding: 0;
+	margin: 0;
+}
+
+#modal-id{
+	/*height: 100%;*/
+	/*width: 80%;*/
+	background-color: rgb(0,0,0,0.7);
+}
+
+#click-modal{
+	text-decoration: none;
+	color: rgb(10,10,40);
+}
+.movie-full{
+	display: flex;
+	flex-direction: row-reverse;
+	color: white;
+}
+
+.modal #name{
+	color: rgb(240,200,240,0.8);
+}
+
+.image{
+	/*position: absolute;*/
+	/*float: right;*/
+}
+
+.movie{
+	/*position: absolute;*/
+	/*text-align: right;*/
+}
+
+.labels-left{
+	font-weight: bolder;
+	font-size: 1.2em;
+	color: rgb(250,250,250,0.6);
+}
+
+.star{
+	font-size:20px;
+	color: #c39400;
+	font-weight: 1000;
+}
+
+.metascore{
+	padding: 0;
+}
+
+.blinking{
+    animation:blinkingText 2.5s infinite;
+}
+@keyframes blinkingText{
+    0%{      color: #d53e4f;}
+    10%{     color: #f46d43;}
+    20%{     color: #fdae61;}
+    30%{     color: #fdae61;}
+    40%{   	 color: #fee088;}
+    50%{     color: #f6faaa;}
+    60%{     color: #e6f598;}
+    70%{     color: #abdda4;}
+    80%{     color: #66c2a5;}
+    90%{     color: #7ba5c7;}
+    90%{     color: #a17bc7;}
+
+}
+
+	let colors = ["","","x","", "", "","", "","", ""]
