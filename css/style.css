@@ -1,5 +1,6 @@
 body{
 	font-family:  Zapf-Chancery, cursive;/*"Star Wars", Fantasy;*/
+	background-color: rgb(0,0,0);
 
 }
 h1{
@@ -12,12 +13,12 @@ h1{
 }
 
 #data-table td{
-	background-color: rgb(250,250,250);
-	padding: 10px;
-	border: 1px solid white;
+	/*background-color: rgb(250,250,250);*/
+	/*padding: 10px;*/
+	border: 1px solid rgb(10,100,100);
 	font-size: 1em;
 	text-align: center;
-	height: 20px;
+	height: 200px;
 }
 
 #data-table th{
@@ -33,7 +34,9 @@ h1{
 
 #click-modal{
 	text-decoration: none;
-	color: rgb(10,10,40);
+    display: block;
+    height: 100%;
+    width: 100%;
 }
 .movie-full{
 	display: flex;
@@ -89,4 +92,69 @@ h1{
 
 }
 
-	let colors = ["","","x","", "", "","", "","", ""]
+hr{
+	border: 1px solid rgb(10,100,100)
+}
+
+footer {
+  background-color: #000;/*black*/
+  /*opacity: 0.6;*/
+  color: whitesmoke;
+  font-family: 20px, "Courier New", Courier, monospace;
+  width: 100% !important;
+  /* height: 150px; */
+  border-top: 1px solid black;
+  margin-top: 30px;
+  text-align: center;
+  font-weight: 5px;
+  /* position: inherit;
+  bottom: -1px; */
+}
+
+footer h2{
+  color: #2196f3;
+}
+
+footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+footer ul li {
+  float: left;
+}
+
+footer li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+footer li a:hover {
+  background-color: #111;
+}
+
+#footer-middle {
+  display: grid;
+  justify-content: space-around;
+  grid-template-rows: 60% 20%;
+  grid-row-gap: 20px;
+}
+
+footer img {
+  padding: 0;
+  margin: 0;
+  height: 40px;
+}
+
+@media only screen and (max-width: 1000px){
+  footer img{
+    height: 25px;
+    width: 25px;
+  }
+}
+
